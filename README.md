@@ -11,4 +11,5 @@
 # • • • •━━༺ᴄʀᴇᴅɪᴛs༻━━ • • •
 <a href="https://t.me/ilex_copied"> <img src="https://img.shields.io/badge/IlexWorld-green?style=for-the-badge&logo=telegram" alt="IlexWorld" /> </a>
 <a href="https://github.com/singhji143"> <img src="https://img.shields.io/badge/Arnavsingh-purple?style=for-the-badge&logo=github" alt="Arnavsingh" /> </a>
+<a href="https://github.com/kaali_xd"> <img src="https://img.shields.io/badge/kali-purple?style=for-the-badge&logo=github" alt="Kali bhai" /> </a>
 </p>
